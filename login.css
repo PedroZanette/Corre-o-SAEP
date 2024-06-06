@@ -1,0 +1,54 @@
+body{
+    background-image: url("./img/Backgroud-livro.jpg");
+    background-size: cover;
+    background-size: 100vw 100vh;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.conteiner{
+    width: 50%;
+    height: fit-content;
+    border-radius: 30px;
+    background-color: azure;
+    position: relative;
+    justify-content: center;
+    margin: auto;
+    margin-top: 10%;
+    align-items: center;
+}
+
+.title{
+    margin: 2%;
+}
+
+
+
+h1{
+    text-align: center;
+    font-size: 4.5vw;
+}
+.input{
+    padding: 2vw;
+    width: fit-content;
+    border-radius: 1.9vw;
+    font-size: 1.5vw;
+    display: block;
+    margin: auto;
+    align-items: center;
+} 
+
+
+.btn-primary{
+    padding: 6vh;
+    border-radius: 2vw;
+    font-size: 1.3vw;
+    margin: 2%;
+}
+
+/* .form-control
+width: 30% !important;
+justify-content: center;
+align-itens: center;
+*/
